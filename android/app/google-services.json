@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "262080457224",
+    "firebase_url": "https://fir-fltr-default-rtdb.firebaseio.com",
+    "project_id": "fir-fltr",
+    "storage_bucket": "fir-fltr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262080457224:android:a65c20f656e3d3c16bbfbd",
+        "android_client_info": {
+          "package_name": "com.example.firestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262080457224-krjtn1c4ogja6jl39o9s6lk30854i9in.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrVVF-dUIqBrYelt8aABMf-4VJef-DFZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262080457224-krjtn1c4ogja6jl39o9s6lk30854i9in.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
